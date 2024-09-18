@@ -1,0 +1,3 @@
+Mediante Micro-USB (computadora, powerbank, cargador de teléfono)
+Mediante alimentación externa a travez de los pines Vin y GND
+Baterías Li-Ion / LiPo (3.7V)
