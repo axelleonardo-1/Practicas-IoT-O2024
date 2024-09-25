@@ -1,0 +1,12 @@
+Realiza mediciones a diferentes tipos de superficies
+(por ejemplo, superficies reflectantes vs. no
+reflectantes) y registra cómo cambia la precisión del
+sensor. Discutir los resultados en equipo y contestar
+En mi caso probando con la pantalla de mi teléfono si me detecto el objeto
+y no hace ningún efecto de estilo rebote.
+
+¿Cuáles son las ventajas y desventajas de usar un
+display OLED en un proyecto como este?
+En este caso la ventaja de tener una pantalla OLED es la facilidad
+y portabilidad que podemos tener ya que el esp32 almacenara la información 
+o el código mientras que lo sensores solamente actuaran.

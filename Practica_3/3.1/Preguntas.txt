@@ -1,0 +1,5 @@
+1. tocar el sensor por unos momentos con los dedos... que
+pasa? Los datos recogidos (temperatura) por el sensor cambian, tarda en responder pero cambian
+
+2. Acercarse al sensor y aventar un poco de aliento (vaho)...
+que pasa??? La humedad detectada incrementa.

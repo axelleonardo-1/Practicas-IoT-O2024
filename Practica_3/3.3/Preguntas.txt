@@ -1,0 +1,8 @@
+1. Realiza diferentes medidas, al techo, a un objeto para ver
+las diferentes distancias cosas hacia el sensor....
+¿Hay algún comportamiento inesperado en las lecturas? Si es
+así, ¿qué observaste? En mi caso la medida hasta el techo desde la mesa fue de 187cm 
+mas sin embargo me di cuenta que cuando transporto el sensor de lado a lado
+marca distancias de 8 metros de la nada cuando aparentaba apuntar a mi compu o el techo
+lo mas probable es de que estos datos sean simplemente una detección repentina de
+lado a lado del salon.
