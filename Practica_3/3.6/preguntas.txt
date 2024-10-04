@@ -1,0 +1,5 @@
+Para aumentar el storage lo primero que se me ocurre que se puede hacer para agregar varias es agarrar un archivo txt con todos los UUID de las credenciales.
+
+Como segunda instancia simplemente un array con varios ID de las credenciales mas sin embargo puede ser un poco pesado y tedioso para un futuro.
+
+Por ultimo que seria mas complejo pero lo mas ideal en cuestión de seguridad y escalabilidad seria usar una base de datos en la que podamos guardar mas datos adicionales y hacer peticiones de la base de datos.
