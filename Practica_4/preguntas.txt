@@ -1,0 +1,11 @@
+1.	¿Qué sucede cuando la temperatura supera el umbral definido en el código?
+Cuando supera el umbral el receptor prende su led para indicar que se ha rebasado mientras tanto el emisor con el 
+led solamente parapadea multiples veces
+
+2.	¿Qué cambios podrías hacer en el código si quisieras ajustar el umbral de
+temperatura?
+Cambiar los umbrales para que detecte una temperatura mas baja aun
+
+3.	¿Cómo se logró la comunicación bidireccional entre los ESP32 y por qué es
+importante que ambos dispositivos puedan enviarse información de vuelta? se logra mediante una comunicacion bideireccional 
+ademas de que con comunicacion Bluthoot que es un protocolo low energy
